@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eknath&repo=eknathmali)](https://github.com/eknathmali/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali&langs_count=1)](https://github.com/eknathmali/eknathmali)
+
+[![Readme Card](https://github.com/eknathmali/eknathmaliusername=eknathmali&repo=eknathmali)](https://github.com/eknathmali/eknathmali)
