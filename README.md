@@ -12,13 +12,7 @@ Here are some ideas to get you started:
 - 📫 Linkedln: www.linkedin.com/in/eknath-mali-5544121b9
 - ⚡ Fun fact: Computer was a job title, and the first programmers were women
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali)
+<img src = "Annotation 2022-01-25 144005.png" alt = "Error" >
+
 
 ![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
-               <!-- <br><b> Resume<b> -->
-<!-- ![Readme Card](https://github-eknathmali/eknathmaliusername=eknathmali&repo=eknathmali) -->
-
-                                   
-<!-- ![Top Langs](https://github-eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io) -->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-statsshow_owner - eknathmali)](https://github.com/eknathmali/eknathmali)
