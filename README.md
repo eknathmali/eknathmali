@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
                <br><b> Resume<b>
-![Readme Card](https://github.com/eknathmali/eknathmaliusername=eknathmali&repo=eknathmali)
+![Readme Card](https://github-eknathmali/eknathmaliusername=eknathmali&repo=eknathmali)
 
                                    
-![Top Langs](https://github.com/eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io)
+![Top Langs](https://github-eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io)
 
