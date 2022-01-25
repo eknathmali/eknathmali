@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github.com/eknathmali/eknathmaliusername=eknathmali&repo=eknathmali)](https://github.com/eknathmali/eknathmali)
 
+                                    Resume
 [![Top Langs](https://github.com/eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io)](https://github.com/eknathmali/Resume)
+
+[![Top Langs](https://github.com/eknathmali/Data-structure-algorithmsusername=eknathmali&layout=compact)](https://github.com/eknathmali/Data-structure-algorithms)
