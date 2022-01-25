@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali)
 
 ![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
-               <br><b> Resume<b>
-![Readme Card](https://github-eknathmali/eknathmaliusername=eknathmali&repo=eknathmali)
+               <!-- <br><b> Resume<b> -->
+<!-- ![Readme Card](https://github-eknathmali/eknathmaliusername=eknathmali&repo=eknathmali) -->
 
                                    
-![Top Langs](https://github-eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io)
+<!-- ![Top Langs](https://github-eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io) -->
 
+[![Readme Card](https://github-eknathmali/eknathmaliusername=eknathmali&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
