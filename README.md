@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali)
 
 ![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
-                <b> Resume<b>
+               <br><b> Resume<b>
 [![Readme Card](https://github.com/eknathmali/eknathmaliusername=eknathmali&repo=eknathmali)](https://github.com/eknathmali/eknathmali)
 
                                    
