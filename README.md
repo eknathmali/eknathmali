@@ -21,4 +21,4 @@ Here are some ideas to get you started:
                                    
 <!-- ![Top Langs](https://github-eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eknathmali&eknathmali)](https://github.com/eknathmali/eknathmali)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/eknathmali/eknathmali)
