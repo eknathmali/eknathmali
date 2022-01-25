@@ -1,5 +1,4 @@
 ### Hi there 👋 Eknath Mali Here Welcomes you to my Profile
-  <link rel="stylesheet" href="style.css"> 
 <!--
 **eknathmali/eknathmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Computer was a job title, and the first programmers were women
 
 <img src = "Annotation 2022-01-25 144005.png" alt = "Error" >
+
 ![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
