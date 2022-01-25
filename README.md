@@ -1,4 +1,5 @@
-<img src = "namelogo.png" alt = "Error" style = "width: 100vw;">
+  <link rel="stylesheet" href="style.css"> 
+<img src = "name.png" alt = "Error">
 ### Hi there 👋 Eknath Mali Here Welcomes you to my Profile
 <!--
 **eknathmali/eknathmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
