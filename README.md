@@ -1,4 +1,4 @@
- <img src = "name.png" alt = "Error" style = "border : 3px solid blue; border-radius: 10px;  height : 165px;" >
+ <marquee  behavior="" direction="left"><img src = "name.png" alt = "Error" style = "border : 3px solid blue; border-radius: 10px;  height : 165px;" ></marquee>
 ### Hi there 👋 Eknath Mali Here Welcomes you to my Profile
 <!--
 **eknathmali/eknathmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
