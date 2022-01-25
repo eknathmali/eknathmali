@@ -1,4 +1,4 @@
-### Hi there 👋 Shubham Singh Here Welcomes you to my Profile
+### Hi there 👋 Eknath Mali Here Welcomes you to my Profile
 
 <!--
 **eknathmali/eknathmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
