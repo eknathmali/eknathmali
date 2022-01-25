@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Computer was a job title, and the first programmers were women
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali)
-![Eknath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=nightowltext_color-blue)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eknath&repo=eknathmali)](https://github.com/eknathmali/github-readme-stats)
+![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=radical)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eknath&repo=eknathmali)](https://github.com/eknathmali/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali&langs_count=4)](https://github.com/eknathmali/eknathmali)
