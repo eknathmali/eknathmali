@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 📫 Linkedln: www.linkedin.com/in/eknath-mali-5544121b9
 - ⚡ Fun fact: Computer was a job title, and the first programmers were women
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali)
 
-![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
+[![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
                <br><b> Resume<b>
-![Readme Card](https://github.com/eknathmali/eknathmaliusername=eknathmali&repo=eknathmali)](https://github.com/eknathmali/eknathmali)
+[![Readme Card](https://github.com/eknathmali/eknathmaliusername=eknathmali&repo=eknathmali)](https://github.com/eknathmali/eknathmali)
 
                                    
-![Top Langs](https://github.com/eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io)](https://github.com/eknathmali/Resume)
+[![Top Langs](https://github.com/eknathmali/Resume/top-langs/?username=eknathmali&exclude_repo=Resume,eknathmali.github.io)](https://github.com/eknathmali/Resume)
 
