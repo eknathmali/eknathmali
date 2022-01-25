@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 Linkedln: www.linkedin.com/in/eknath-mali-5544121b9
 - ⚡ Fun fact: Computer was a job title, and the first programmers were women
 
-<img src = "Annotation 2022-01-25 144005.png" alt = "Error" >
+<img src = "Annotation 2022-01-25 144005.png" alt = "Error" style = "width: 20px;">
 
 ![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
