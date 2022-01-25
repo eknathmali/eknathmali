@@ -1,3 +1,4 @@
+<img src = "namelogo.png" alt = "Error" style = "width: 100vw;">
 ### Hi there 👋 Eknath Mali Here Welcomes you to my Profile
 <!--
 **eknathmali/eknathmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 Linkedln: www.linkedin.com/in/eknath-mali-5544121b9
 - ⚡ Fun fact: Computer was a job title, and the first programmers were women
 
-<img src = "namelogo.png" alt = "Error" style = "width: 100vw;">
+
 
 ![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
