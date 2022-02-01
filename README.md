@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 
 
 
-![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
+<p align = "center"><img width  = "500"
+        src = "https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green" 
+        alt = "Eknath's GitHub stats"/>
 
 <p align="center">
     <img width="500"
