@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 
 
 ![Eknath's GitHub stats](https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green)
+
+<p align="center">
+    <img width="500"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali&langs_count=10&layout=compact&theme=tokyonight" 
+        alt="Eknath's Top Languages"
+    />
