@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://telegram.me/malieknath_2024">
-        <img src='<img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/>' alt='Telegram' height='40'>
+        <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" alt='Telegram' height='40'/>
     </a>
