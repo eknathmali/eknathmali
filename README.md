@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <a href="https://telegram.me/malieknath_2024">
         <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" alt='Telegram' height='60'/>
     </a>
-    <a href="www.linkedin.com/in/eknath-mali-5544121b9">
+    <a href="https://www.linkedin.com/in/eknath-mali-5544121b9/">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt='Linkedin' height='60'/>
     </a>
     </p>
