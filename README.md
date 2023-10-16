@@ -4,7 +4,6 @@
 <h3 align="center">I'm a Web Developer and Data Science enthusiastic final-year Computer Engineering Student.</h3> 
  ## 🙋‍♂️ About Me
 
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
 - 🔥 I'm also enhancing myself in the field of **Data Science**
