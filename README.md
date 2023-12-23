@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-
 - 🔥 I'm also enhancing myself in the field of **Data Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
