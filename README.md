@@ -7,7 +7,6 @@
 - 🔥 I'm also enhancing myself in the field of **Data Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
- 
 - 📫 How to reach me **malieknath135@gmail.com**
 ## 🚀 Languages and Tools:
 <p align="left"> 
