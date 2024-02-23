@@ -1,6 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi  <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="40px">, I'm Eknath
 <h3 align="center">I'm a Web Developer and Data Science enthusiastic final-year Computer Engineering Student.</h3> 
+
  
  ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
