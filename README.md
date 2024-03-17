@@ -9,7 +9,6 @@
 - 📫 How to reach me **malieknath135@gmail.com**
 
 
-
 ## 🚀 Languages and Tools:
  
 <p align="left"> 
