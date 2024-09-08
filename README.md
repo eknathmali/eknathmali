@@ -33,14 +33,7 @@
     <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
 </p>
 
-- 📫 Linkedln: www.linkedin.com/in/eknath-mali
 
-
-
-
-<p align = "center"><img width  = "500"
-        src = "https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green" 
-        alt = "Eknath's GitHub stats"/>
 
 # 📊 GitHub Stats:
 
