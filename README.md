@@ -1,4 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="coder.gif" height="175px"/></a>
+
+<br>
+<div align="center">
+<img src="coder.gif" width="300px">
+</div>
+<br>
 <h1 align="center">Hi  <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="40px">, I'm Eknath
 <h3 align="center">I'm a Web Developer and Data Science enthusiastic final-year Computer Engineering Student.</h3> 
 
