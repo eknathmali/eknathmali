@@ -36,6 +36,12 @@
         src = "https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green" 
         alt = "Eknath's GitHub stats"/>
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=eknathmali&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eknathmali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eknathmali&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=eknathmali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
