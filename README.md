@@ -8,11 +8,12 @@
 <h3 align="center">Merging AI Vision with Python Precision</h3> 
 
 
- ## 🙋‍♂️ About Me
-- 🌱 I’m currently working as AI & Python Developer at @techolution.
-- 🔥 I'm also enhancing myself in the field of **Data Science**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **malieknath135@gmail.com**
+## 🙋‍♂️ About Me
+- 🌱 I’m currently working as an AI & Python Developer at **@Techolution**.
+- 🔥 I'm open to taking on any freelancing projects.
+- 👯 I’m looking to collaborate on **open-source projects**.
+- 📫 Reach me at **[malieknath135@gmail.com](mailto:malieknath135@gmail.com)**.
+
 
 
 ## 🚀 Languages and Tools:
