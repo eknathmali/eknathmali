@@ -4,7 +4,7 @@
 
 
  ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently working as AI & Python Developer at @techolution.
 - 🔥 I'm also enhancing myself in the field of **Data Science**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **malieknath135@gmail.com**
@@ -36,6 +36,11 @@
         src = "https://github-readme-stats.vercel.app/api?username=eknathmali&show_icons=true&theme=blue-green" 
         alt = "Eknath's GitHub stats"/>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=eknathmali&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![Eknath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eknathmali&theme=merko)
 
 <p align="center">
   <a href="https://telegram.me/malieknath_2024">  <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"  style="border:3px solid white;border-radius: 30px" alt='Telegram' height='60px' /> </a>
