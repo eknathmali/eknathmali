@@ -23,7 +23,7 @@
 
 ## About Me
 
-- Currently working at EPAM as a Software AI Engineer.
+- Currently working as a Software AI Engineer.
 - AI Engineer with 3+ years building production LLM systems, RAG pipelines, and multi-agent platforms.
 - Building real-world AI products with Agentic AI, RAG pipelines, and LLM orchestration.
 - Love turning messy workflows into intelligent, automated systems.
