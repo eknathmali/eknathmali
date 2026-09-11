@@ -10,9 +10,7 @@
     Hey, I am Eknath
   </h1>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2200&pause=700&color=00C2A8&center=true&vCenter=true&width=900&lines=Software+AI+Engineer+%40+EPAM;Building+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+RAG;Python+First%2C+Production+Ready+Mindset" alt="Typing animation" />
-  </p>
+
 
   <p>
     <a href="https://eknathmali.github.io/fine-tuned-vibes/">
